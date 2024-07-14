@@ -1,5 +1,7 @@
 ![1_VY4LUPAovagBPnnvMH2x1Q](https://github.com/user-attachments/assets/8feae966-b111-4efd-a3f4-022b2fb36b79)
 
+
+
 👋Hola!
 👨🏻‍💻 ¿Quién soy y qué hago?
 💡 Soy Analista de Datos y Técnico en Programación, con experiencia en la industria farmacéutica.
@@ -11,7 +13,10 @@
 
 
 🛠 Stack Tecnológico
-
+* Google sheets
+* SQL
+* Power BI
+* Python
 
 
 
