@@ -1,4 +1,5 @@
-![1_VY4LUPAovagBPnnvMH2x1Q](https://github.com/user-attachments/assets/8feae966-b111-4efd-a3f4-022b2fb36b79)
+![1720711388064](https://github.com/user-attachments/assets/6892bb9f-a5f3-4d5b-be0c-89641a527db4)
+
 
 
 
@@ -13,10 +14,8 @@
 
 
 🛠 Stack Tecnológico
-* Google sheets
-* SQL
-* Power BI
-* Python
+![2991116](https://github.com/user-attachments/assets/f132c11e-0633-4e4a-b5e6-fcb419a454d6)
+
 
 
 
