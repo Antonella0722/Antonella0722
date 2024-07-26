@@ -15,14 +15,16 @@
 ⚡Terminé el Bootcamp de Data Analytics de Henry, donde adquiri sólidos conocimienyos en transformación y visualización de datos como SQL, Python y Power BI. 
 
 😀Estoy entusiasmada por aplicar mis conocimientos en roles de análisis de datos, donde pueda transformar datos en decisiones y contribuir al éxito del equipo.
-📎Te invito a ver mi [Antonella-Castillo-CV-Analista-de-Datos.docx](https://github.com/user-attachments/files/16397285/Antonella-Castillo-CV-Analista-de-Datos.docx)
+
+📎Te invito a ver mi [Curriculum](https://github.com/user-attachments/files/16397398/Antonella-Castillo-CV-Analista-de-Datos.pdf) para saber mas detalles profesionales sobre mi.
+
+
+#### 🛠 Stack Tecnológico
+
+![image](https://github.com/user-attachments/assets/3558872b-33f0-4295-bb0b-4da6d482d41d) ![Trello Logo](https://upload.wikimedia.org/wikipedia/en/8/8c/Trello_logo.svg) ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white) ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github-copilot&logoColor=white)
 
 
 
-
-
-🛠 Stack Tecnológico
-![image](https://github.com/user-attachments/assets/3558872b-33f0-4295-bb0b-4da6d482d41d)
 
 
 
