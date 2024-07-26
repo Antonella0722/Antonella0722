@@ -1,13 +1,21 @@
-![1720711388064](https://github.com/user-attachments/assets/6892bb9f-a5f3-4d5b-be0c-89641a527db4)
+![analytics-data-analysis-strategy-statistic-concept-photo](https://github.com/user-attachments/assets/d9ce49ca-711a-4bd9-9c3b-2dfdc67c7881)
+
+
 
 👋 Hola!
 
 👨🏻‍💻 Te estarás preguntando quien soy y como llegue a ser Data Analytics 🕵🏼. Te cuento mi camino...
 
-💡 Soy Análista de Datos y Contadora Pública, con experiencias en diferentes industrias como Hoteleria, Gastronomia y Cárnica.
+💡Soy Contadora Pública con experiencia en diversas áreas como la administración, contabilidad y finanzas.
 
-🎓 Tengo experiencia en análisis
+🎓Tengo experiencia en distintas industrias,donde he consolidado habilidades analíticas y de resolución de problemas.
 
+🎞️Mi transición hacia el campo de la tecnología, refleja mi pasión por el análisis de datos y la búsqueda constante de crecimiento.
+
+⚡Terminé el Bootcamp de Data Analytics de Henry, donde adquiri sólidos conocimienyos en transformación y visualización de datos como SQL, Python y Power BI. 
+
+😀Estoy entusiasmada por aplicar mis conocimientos en roles de análisis de datos, donde pueda transformar datos en decisiones y contribuir al éxito del equipo.
+📎Te invito a ver mi [Antonella-Castillo-CV-Analista-de-Datos.docx](https://github.com/user-attachments/files/16397285/Antonella-Castillo-CV-Analista-de-Datos.docx)
 
 
 
