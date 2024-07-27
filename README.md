@@ -44,7 +44,10 @@ Proyecto de análisis de datos para Global Super Store, líder en ventas de prod
 
 ## 👩‍🎓Si necesitas una profesional que te ayude a transformar datos en decisiones!!
 
-¡Contáctame en 📌📩cpn.castilloantonella@gmail.com o [Linkedin](https://www.linkedin.com/in/antonella-castillo-879ba88a/)
+📌 Contáctame en        
+                       [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black&link=https://www.linkedin.com/in/antonella-castillo-879ba88a/)](https://www.linkedin.com/in/antonella-castillo-879ba88a/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black&link=mailto:cpn.castilloantonella@gmail.com)](mailto:cpn.castilloantonella@gmail.com)
+
 
 
 
