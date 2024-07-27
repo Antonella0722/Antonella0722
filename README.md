@@ -42,7 +42,9 @@ Desarrollo de un informe integral en Power BI para Adventure Works Cycles (AWC),
 Proyecto de análisis de datos para Global Super Store, líder en ventas de productos en línea a nivel internacional, con el objetivo de mejorar la eficiencia de sus operaciones.
 
 
+## 👩‍🎓Si necesitas una profesional que te ayude a transformar datos en decisiones!!
 
+¡Contáctame en 📌📩cpn.castilloantonella@gmail.com
 
 
 
