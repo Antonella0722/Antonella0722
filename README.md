@@ -4,11 +4,11 @@
 
 ### Hola! 🙌
 
-👨🏻‍💻 Te estarás preguntando quien soy y como llegue a ser Data Analytics 🕵🏼. Te cuento mi camino...
+👨🏻‍💻 Te estarás preguntando quien soy y como llegue a ser Data Analytics 🕵🏼. Te cuento mi camino 🛣️
 
 💡Soy Contadora Pública con experiencia en diversas áreas como la administración, contabilidad y finanzas.
 
-🎓Tengo experiencia en distintas industrias,donde he consolidado habilidades analíticas y de resolución de problemas.
+🎓Tengo conocimientos en distintas industrias, donde he consolidado habilidades analíticas y de resolución de problema.
 
 🎞️Mi transición hacia el campo de la tecnología, refleja mi pasión por el análisis de datos y la búsqueda constante de crecimiento.
 
