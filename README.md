@@ -1,4 +1,4 @@
-![analytics-data-analysis-strategy-statistic-concept-photo](https://github.com/user-attachments/assets/d9ce49ca-711a-4bd9-9c3b-2dfdc67c7881)
+![Mercados-Portada](https://github.com/user-attachments/assets/013b8eb5-f7e0-44a3-9a96-3da7be16e3ce)
 
 
 
