@@ -1,4 +1,4 @@
-![stock-photo-big-data-technology-and-data-science-illustration-data-flow-concept-querying-analysing-2236217443](https://github.com/user-attachments/assets/a7c69660-7a98-4c67-8d57-9e6fb8180b20)
+![stock-photo-big-data-technology-and-data-science-illustration-data-flow-concept-querying-analysing-2236217443-removebg-preview](https://github.com/user-attachments/assets/6af4ee60-eb32-42ca-92b3-d6522f7f6f0c)
 
 
 
